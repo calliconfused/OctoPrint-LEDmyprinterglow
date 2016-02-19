@@ -26,11 +26,13 @@ sudo make install
 ```
 
 Sweet but it won't work right now because this isn't ready. Or you have to run the OctoPrint as root. This little detour will start pigpio as daemon. Type `sudo crontab -e` and put the following line at the end of this file:
-`@reboot              /usr/local/bin/pigpiod`
+```
+@reboot              /usr/local/bin/pigpiod
+```
 
 Now you can clone the plugin into the OctoPrint Plugin folder
 ```bash
-cd ~/octoprint/plugins
+cd ~/.octoprint/plugins
 git clone https://github.com/calliconfused/OctoPrint-LEDmyprinterglow/blob/master/led_my_printer_glow.py
 ```
 
