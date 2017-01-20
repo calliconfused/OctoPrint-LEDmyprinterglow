@@ -33,7 +33,7 @@ Sweet but it won't work right now because this isn't ready. Or you have to run t
 Now you can clone the plugin into the OctoPrint Plugin folder
 ```bash
 cd ~/.octoprint/plugins
-git clone https://github.com/calliconfused/OctoPrint-LEDmyprinterglow/blob/master/led_my_printer_glow.py
+git clone https://github.com/calliconfused/OctoPrint-LEDmyprinterglow
 ```
 
 After this the plugin is availible under options and plugin.
