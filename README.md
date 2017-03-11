@@ -9,6 +9,10 @@ I didn't realized the automatic installer for OctoPrint yet (maybe I'm too stupi
 
 Feel free to comment or, it's better, try to support this nice little application.
 
+**UPDATE 03/11/2017 - Currently I'm working on another project. So (for me) it's still on hold!**
+
+One problem is that this small addon works just with Raspian Weezy and I don't find the time to fixed that. Sorry for that!
+
 # What do I need for this tool?
 
 The first and most important thing is a LED strip. I'm currently using a LED strip from the big Swedish home center. But there are a lot of other manufactures who can deliver such a thing.
